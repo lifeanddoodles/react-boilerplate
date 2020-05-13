@@ -1,1 +1,1 @@
-# react-user-profile
+# React Boilerplate
